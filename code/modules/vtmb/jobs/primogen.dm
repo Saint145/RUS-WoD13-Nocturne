@@ -20,7 +20,7 @@
 	allowed_bloodlines = list(CLAN_MALKAVIAN)
 	minimal_generation = 9
 //	minimum_character_age = 100
-	minimum_vampire_age = 400 // Actually Malkavian Primo is whoever showed for work that day. Crazy bunch.
+	minimum_vampire_age = 5 // Actually Malkavian Primo is whoever showed for work that day. Crazy bunch.
 
 	v_duty = "Offer your infinite knowledge to Prince of the City. You likely have a hold over the local hospital, make good use of it and ensure the blood bags remain available."
 	experience_addition = 20
@@ -266,7 +266,7 @@
 	allowed_bloodlines = list(CLAN_LASOMBRA)
 	minimal_generation = 9
 //	minimum_character_age = 100
-	minimum_vampire_age = 400 // Heavily meritocratic and new to the Camarilla, plus, Julia Sowinski *shrug
+	minimum_vampire_age = 5 // Heavily meritocratic and new to the Camarilla, plus, Julia Sowinski *shrug
 
 	v_duty = "Offer your infinite knowledge to Prince of the City. Monitor those of your Clan and your lesser cousins, while holding a Court of Blood as need be, for all it takes for the Camarilla to turn on you is one mistake. You and Your Clan were given a domain in the local Church and in the vicinity of a swarm of Lupines, keep matters under control."
 	experience_addition = 20
