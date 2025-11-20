@@ -150,8 +150,8 @@
 	auto_deadmin_role_flags = DEADMIN_POSITION_SECURITY
 	department_head = list("Prince")
 	faction = "Vampire"
-	total_positions = 4
-	spawn_positions = 4
+	total_positions = 8
+	spawn_positions = 8
 	supervisors = "the Seneschal, Sheriff and Prince."
 	selection_color = "#bd3327"
 	exp_type = EXP_TYPE_CREW

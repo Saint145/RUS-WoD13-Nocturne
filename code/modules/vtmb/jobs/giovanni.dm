@@ -16,9 +16,9 @@
 	display_order = JOB_DISPLAY_ORDER_GIOVANNI
 	exp_type_department = EXP_TYPE_GIOVANNI
 
-	minimal_generation = 11
+	minimal_generation = 10
 //	minimum_character_age = 130 //Uncomment if age restriction wanted
-	minimum_vampire_age = 150
+	minimum_vampire_age = 250
 
 	v_duty = "Pure blood runs through your veins and, with it, old power. Throughout your long life you have learnt to hold onto two things and never let go: money, and family."
 	minimal_masquerade = 0
@@ -52,8 +52,8 @@
 	title = "La Squadra"
 	department_head = list("Capo")
 	faction = "Vampire"
-	total_positions = 3
-	spawn_positions = 3
+	total_positions = 6
+	spawn_positions = 6
 	supervisors = "the Family and the Traditions"
 	selection_color = "#cb4aad"
 
