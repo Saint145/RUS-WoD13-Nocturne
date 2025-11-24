@@ -10,3 +10,4 @@ Omerta_44 = Game Master
 Flaunti = Game Master
 Vadimtrutnev = Badmin
 Abramsonn = Coder
+anti4iter = Game Master
